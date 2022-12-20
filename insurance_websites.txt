@@ -1,0 +1,20 @@
+Carefirst Community (scraper done):
+https://providersearch.carefirstchpmd.com/
+
+Priority Partners:
+https://pp.healthtrioconnect.com/public-app/consumer/provdir/entry.page
+
+Maryland Physicians Care:
+https://mpmdportal.valence.care/member/#findaprovider
+
+Aetna Betterhealth:
+https://www.aetnabetterhealth.com/maryland/find-provider
+
+United Healthcare Medicaid:
+https://connect.werally.com/find/medicalProvider/7
+
+Cigna HealthSprings:
+https://providersearch.hsconnectonline.com/Directory/
+
+Amerigroup (now Wellpoint):
+https://findcare.wellpoint.com/search-providers
